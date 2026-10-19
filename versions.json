@@ -3,5 +3,6 @@
   "minilaya": "v0.2.0",
   "generalist": "v1.0.0",
   "mail": "v0.5.0",
-  "doom": "v0.3.0"
+  "doom": "v0.3.0",
+  "generalist-multi": "v1.1.0-multi-beta"
 }
